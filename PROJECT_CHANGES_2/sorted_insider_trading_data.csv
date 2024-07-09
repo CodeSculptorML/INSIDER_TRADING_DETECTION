@@ -1,0 +1,522 @@
+"SYMBOL 
+","NAME OF THE ACQUIRER/DISPOSER 
+","CATEGORY OF PERSON 
+","TYPE OF SECURITY (PRIOR) 
+","% SHAREHOLDING (PRIOR) 
+","NO. OF SECURITIES (ACQUIRED/DISPLOSED) 
+","VALUE OF SECURITY (ACQUIRED/DISPLOSED) 
+","ACQUISITION/DISPOSAL TRANSACTION TYPE 
+","NO. OF SECURITY (POST) 
+","DATE OF ALLOTMENT/ACQUISITION FROM 
+","MODE OF ACQUISITION 
+","NUMBER OF UNITS/CONTRACT LOT SIZE  (SELL) 
+",is_insider
+CHOICEIN,Manoj Singhania,-,Equity Shares,0.0,,,Buy,5000,2024-01-15,ESOP,0,0
+CHOICEIN,Karishma Shah,-,Equity Shares,0.03,,,Buy,30000,2024-01-15,ESOP,0,0
+CHOICEIN,Ayush Sharma,-,Equity Shares,0.03,,,Buy,30000,2024-01-15,ESOP,0,0
+CHOICEIN,Bhal Chandra Murarka,-,Equity Shares,0.04,,,Buy,49248,2024-01-15,ESOP,0,0
+CHOICEIN,Yogesh Jadhav,-,Equity Shares,1.13,38596.0,193536.0,Buy,1137500,2024-01-15,ESOP,0,0
+CHOICEIN,Kkunal Parar,-,Equity Shares,0.0,,,Buy,2500,2024-01-15,ESOP,0,0
+CHOICEIN,Nitesh Agarwal,-,Equity Shares,0.57,,,Buy,585576,2024-01-15,ESOP,0,0
+CHOICEIN,Ratiraj Tibrewal,-,Equity Shares,0.7,1150.0,1863518.0,Buy,712500,2024-01-15,ESOP,0,0
+CHOICEIN,Sumit Bajaj,-,Equity Shares,0.03,2484.0,4025198.0,Buy,30000,2024-01-15,ESOP,0,0
+CHOICEIN,NS Technical Consultancy Private Limited,Promoter Group,Equity Shares,2.26,654.0,1059774.0,Buy,2334000,2023-12-18,Market Purchase,0,0
+CHOICEIN,NS Technical Consultancy Private Limited,Promoter Group,Equity Shares,1.9,5000.0,2727750.0,Buy,2244000,2023-12-13,Market Purchase,0,0
+CHOICEIN,NS Technical Consultancy Private Limited,Promoter Group,Equity Shares,1.5,5000.0,2727750.0,Buy,1894000,2023-12-06,Market Purchase,0,0
+CHOICEIN,NS Technical Consultancy Private Limited,Promoter Group,Equity Shares,1.05,5000.0,2727750.0,Buy,1494000,2023-12-05,Market Purchase,0,0
+CHOICEIN,Patodia Properties Private Limited,Promoter Group,Equity Shares,4.05,12500.0,6819375.0,Buy,4160000,2023-12-04,Market Purchase,0,0
+CHOICEIN,Patodia Properties Private Limited,Promoter Group,Equity Shares,3.94,12500.0,6819735.0,Buy,4035000,2023-11-30,Market Purchase,0,0
+CHOICEIN,Patodia Properties Private Limited,Promoter Group,Equity Shares,3.87,2500.0,1363875.0,Buy,3925000,2023-11-06,Market Purchase,0,0
+CHOICEIN,NS Technical Consultancy Private Limited,Promoter Group,Equity Shares,0.95,12500.0,6819375.0,Buy,954000,2023-11-02,Market Purchase,0,0
+CHOICEIN,NS Technical Consultancy Private Limited,Promoter Group,Equity Shares,1.0,12500.0,6819375.0,Buy,1044000,2023-11-03,Market Purchase,0,0
+THOMASCOOK,IDBI Trusteeship Services Limited,-,Equity Shares,1.13,5000.0,2727750.0,Sell,5280118,2024-01-17,ESOP,0,0
+THOMASCOOK,IDBI Trusteeship Services Limited,-,Equity Shares,1.11,,,Sell,5318714,2023-12-18,ESOP,0,0
+THOMASCOOK,IDBI Trusteeship Services Limited,-,Equity Shares,1.28,,,Sell,6019093,2023-09-07,ESOP,0,0
+THOMASCOOK,IDBI Trusteeship Services Limited,-,Equity Shares,1.28,,,Sell,6037406,2023-09-01,ESOP,0,0
+THOMASCOOK,IDBI Trusteeship Services Limited,-,Equity Shares,1.34,,,Sell,6060798,2023-08-01,ESOP,0,0
+THOMASCOOK,Amit Madhan,Employees/Designated Employees,Equity Shares,0.03,,,Sell,128766,2023-12-29,Market Sale,0,0
+THOMASCOOK,IDBI Trusteeship Services Limited,-,Equity Shares,1.11,96101.0,982368.0,Sell,5318714,2023-12-18,Off Market,0,0
+THOMASCOOK,Debasis Nandy,Employees/Designated Employees,Equity Shares,0.05,18313.0,387477.0,Buy,334071,2023-12-18,ESOP,0,0
+THOMASCOOK,RAJEEV KALE,Employees/Designated Employees,Equity Shares,0.04,23392.0,23392.0,Sell,179449,2023-11-28,Market Sale,0,0
+THOMASCOOK,RAJEEV KALE,Employees/Designated Employees,Equity Shares,0.05,243017.0,653807.0,Sell,199449,2023-11-24,Market Sale,0,0
+THOMASCOOK,Fairbridge Capital (Mauritius) Limited,Promoters,Equity Shares,72.34,,,Sell,300258798,2023-11-30,Market Sale,0,0
+THOMASCOOK,MONA CHERIYAN,Employees/Designated Employees,Equity Shares,0.06,13000.0,3958500.0,Sell,292385,2023-11-21,Market Sale,0,0
+THOMASCOOK,Aniruddha Chaudhuri,Employees/Designated Employees,Equity Shares,0.0,5000.0,1525000.0,Sell,Nil,2023-11-15,Market Sale,0,0
+THOMASCOOK,MEERA CHARNALIA,Employees/Designated Employees,Equity Shares,0.01,1000.0,301000.0,Sell,86933,2023-11-15,Market Sale,0,0
+THOMASCOOK,MEERA CHARNALIA,Employees/Designated Employees,Equity Shares,0.02,3000.0,903000.0,Sell,91933,2023-11-09,Market Sale,0,0
+THOMASCOOK,RAJEEV KALE,Employees/Designated Employees,Equity Shares,0.05,20000.0,6040000.0,Sell,233053,2023-11-09,Market Sale,0,0
+THOMASCOOK,MONA CHERIYAN,Employees/Designated Employees,Equity Shares,0.05,20000.0,6040000.0,Buy,302385,2023-11-06,ESOP,0,0
+THOMASCOOK,IDBI Trusteeship Services Limited,-,Equity Shares,1.16,20000.0,6040000.0,Sell,5414815,2023-11-06,ESOP,0,0
+THOMASCOOK,Rambhau R. Kenkare,-,Equity Shares,0.07,5000.0,1525000.0,Buy,435482,2023-10-17,ESOP,0,0
+THOMASCOOK,ABRAHAM ALAPATT,-,Equity Shares,0.04,20000.0,6020000.0,Buy,277346,2023-10-17,ESOP,0,0
+THOMASCOOK,MAHESH IYER,-,Equity Shares,0.06,20000.0,6020000.0,Buy,389954,2023-10-17,ESOP,0,0
+THOMASCOOK,IDBI Trusteeship Services Limited,-,Equity Shares,1.23,20000.0,6020000.0,Sell,5487294,2023-10-17,ESOP,0,0
+ACCENTMIC,CHETNABEN JITENDRAKUMAR PATEL,Promoter Group,Equity Shares,0.0,997.0,1615589.0,Buy,13000,2024-01-16,Market Purchase,0,0
+ACCENTMIC,RAJAN ARVINDBHAI CHHABHAIYA,Promoter Group,Equity Shares,0.0,800.0,1296360.0,Buy,5000,2024-01-16,Market Purchase,0,0
+ACCENTMIC,NIPAM JASHVANTLAL JANI,-,Equity Shares,0.0,8649.0,14015272.0,Buy,1000,2024-01-16,Market Purchase,0,0
+ACCENTMIC,ZANKHANA NIPAMBHAI JANI,-,Equity Shares,0.0,39562.0,175090.0,Buy,3000,2024-01-16,Market Purchase,0,0
+ACCENTMIC,JYOTIBEN GHANSHYAMBHAI PATEL,Immediate relative,Equity Shares,0.0,,,Buy,20000,2024-01-16,Market Purchase,0,0
+ACCENTMIC,JAHANVI GHANSHYAMBHAI PATEL,Immediate relative,Equity Shares,0.0,,,Buy,20000,2024-01-16,Market Purchase,0,0
+ACCENTMIC,HET GHANSHYAMBHAI PATEL,Immediate relative,Equity Shares,0.0,,,Buy,20000,2024-01-16,Market Purchase,0,0
+ACCENTMIC,SHREY VINODKUMAR CHHABHAIYA,Immediate relative,Equity Shares,0.0,,,Buy,5000,2024-01-16,Market Purchase,0,0
+ACCENTMIC,SHAILESHBHAI ARJANBHAI PATEL,Promoter Group,Equity Shares,0.51,,,Buy,128000,2024-01-16,Market Purchase,0,0
+ACCENTMIC,PRINCY SHAILESHBHAI PATEL,Promoter Group,Equity Shares,0.0,,,Buy,20000,2024-01-16,Market Purchase,0,0
+ACCENTMIC,KANCHANBEN SHAILESHBHAI PATEL,Promoter Group,Equity Shares,0.0,,,Buy,20000,2024-01-16,Market Purchase,0,0
+M&M,Mohan Nair,Employees/Designated Employees,Equity Shares,0.0,,,Buy,12603,2024-01-16,ESOP,0,1
+M&M,Velusamy R,Employees/Designated Employees,Equity Shares,0.0,5500.0,14551570.0,Buy,40498,2024-01-16,ESOP,0,1
+M&M,Rajeev Sharma,Employees/Designated Employees,Equity Shares,0.0,,,Buy,5491,2024-01-16,ESOP,0,1
+M&M,Mr. Anil Jagga,Employees/Designated Employees,Equity Shares,0.0,,,Buy,2552,2024-01-16,ESOP,0,1
+M&M,Sriram Kumar,Employees/Designated Employees,Equity Shares,0.0,,,Buy,800,2024-01-16,ESOP,0,1
+M&M,Vijay Nakra,Employees/Designated Employees,Equity Shares,0.0,,,Buy,57138,2024-01-16,ESOP,0,1
+M&M,Mahindra & Mahindra Employees' Stock Option Trust,Other,Equity Shares,3.58,,,Sell,44514402,2024-01-16,ESOP,0,1
+M&M,Deven M Maskara,Employees/Designated Employees,Equity Shares,0.0,,,Buy,4486,2023-11-24,ESOP,0,1
+M&M,Deven M Maskara,Employees/Designated Employees,Equity Shares,0.0,,,Buy,4286,2023-11-16,ESOP,0,1
+M&M,Deven M Maskara,Employees/Designated Employees,Equity Shares,0.0,,,Sell,3986,2023-12-28,Market Sale,0,1
+M&M,Vikram Wagh,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-11-28,Market Sale,0,1
+M&M,Vikram Wagh,Employees/Designated Employees,Equity Shares,0.0,,,Buy,2000,2023-11-24,Others,0,1
+M&M,Prabhakar V,Employees/Designated Employees,Equity Shares,0.0,,,Buy,4771,2023-11-16,ESOP,0,1
+M&M,Prabhakar V,Employees/Designated Employees,Equity Shares,0.0,,,Sell,4446,2023-12-28,Market Sale,0,1
+M&M,Prabhakar V,Employees/Designated Employees,Equity Shares,0.0,,,Sell,4671,2023-11-29,Market Sale,0,1
+M&M,Prabhakar V,Employees/Designated Employees,Equity Shares,0.0,,,Sell,4646,2023-12-04,Market Sale,0,1
+M&M,Prabhakar V,Employees/Designated Employees,Equity Shares,0.0,,,Sell,4571,2023-12-05,Market Sale,0,1
+M&M,Prabhakar V,Employees/Designated Employees,Equity Shares,0.0,,,Sell,4521,2023-12-06,Market Sale,0,1
+M&M,Prabhakar V,Employees/Designated Employees,Equity Shares,0.0,,,Sell,4471,2023-12-15,Market Sale,0,1
+M&M,Dipankar Ray,Employees/Designated Employees,Equity Shares,0.0,,,Sell,17748,2023-12-01,Market Sale,0,1
+M&M,Deshmukh Nasir Kabir,Employees/Designated Employees,Equity Shares,0.0,200.0,310640.0,Sell,12347,2023-11-17,Market Sale,0,1
+M&M,Yogesh Gandhi,Employees/Designated Employees,Equity Shares,0.0,200.0,314210.0,Sell,4913,2023-11-24,Market Sale,0,1
+M&M,Dipankar Ray,Employees/Designated Employees,Equity Shares,0.0,500.0,859500.0,Sell,15748,2023-12-04,Market Sale,0,1
+M&M,Dhananjaya Rao Boita,Employees/Designated Employees,Equity Shares,0.0,83005.0,503051803.0,Sell,3054,2023-12-19,Market Sale,0,1
+M&M,Dhananjaya Rao Boita,Employees/Designated Employees,Equity Shares,0.0,,,Sell,2854,2023-12-29,Market Sale,0,1
+M&M,Dhananjaya Rao Boita,Employees/Designated Employees,Equity Shares,0.0,,,Buy,3304,2023-12-12,ESOP,0,1
+M&M,T G Kisten,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-11-28,Market Sale,0,1
+M&M,T G Kisten,Employees/Designated Employees,Equity Shares,0.0,,,Sell,129,2023-11-13,Market Sale,0,1
+M&M,Mr. M. Ramanikrishnan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,1787,2023-12-27,Market Sale,0,1
+M&M,Yatinder Nath,Employees/Designated Employees,Equity Shares,0.0,,,Sell,1768,2023-12-28,Market Sale,0,1
+M&M,Mr. Rajeshwar Tripathi,Employees/Designated Employees,Equity Shares,0.0,127.0,1270.0,Sell,8200,2023-12-28,Market Sale,0,1
+M&M,Naveen Chopra,Employees/Designated Employees,Equity Shares,0.0,562.0,365300.0,Sell,Nil,2023-12-28,Market Sale,0,1
+M&M,NACHIKET KODKANI,Employees/Designated Employees,Equity Shares,0.0,690.0,1830618.0,Sell,11281,2023-12-27,Market Sale,0,1
+M&M,Ashutosh Goel,Employees/Designated Employees,Equity Shares,0.0,,,Buy,3300,2023-12-12,ESOP,0,1
+M&M,Ashutosh Goel,Employees/Designated Employees,Equity Shares,0.0,,,Sell,3000,2023-12-26,Market Sale,0,1
+M&M,Jalaj Gupta,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6107,2023-12-05,Market Sale,0,1
+M&M,Yuthica Mahindra Family Trust,Promoter Group,Equity Shares,0.0,2000.0,3125439.0,Buy,992638,2023-12-26,Others,0,1
+M&M,Mrs. Sudha K Mahindra,Promoter Group,Equity Shares,0.12,2000.0,3106400.0,Sell,309144,2023-12-26,Others,0,1
+M&M,Keshub Mahindra,Promoters,Equity Shares,0.06,,,Sell,Nil,2023-12-26,Others,0,1
+M&M,Mrs. Leena S. Labroo,Promoter Group,Equity Shares,0.15,,,Sell,1561166,2023-12-26,Others,0,1
+M&M,Mrs. Leena S. Labroo,Promoter Group,Equity Shares,0.1,,,Buy,1878733,2023-12-26,Others,0,1
+M&M,Kabir Malhotra,Promoter Group,Equity Shares,0.0,,,Buy,10000,2023-12-26,Others,0,1
+M&M,Deepak Girish Varde,Promoter Group,Equity Shares,0.01,,,Buy,88720,2023-12-26,Others,0,1
+M&M,Anjali Ranjit Malhotra,Promoter Group,Equity Shares,0.0,,,Buy,10000,2023-12-26,Others,0,1
+M&M,Aneesha Labroo,Promoter Group,Equity Shares,0.01,,,Buy,170000,2023-12-26,Others,0,1
+M&M,Ms. Yuthica Keshub Mahindra jointly with Mrs. Sudha K Mahindra,Promoter Group,Equity Shares,0.1,,,Sell,644744,2023-12-26,Others,0,1
+M&M,Ms. Yuthica Keshub Mahindra jointly with Mrs. Sudha K Mahindra,Promoter Group,Equity Shares,0.05,,,Buy,1271593,2023-12-26,Others,0,1
+M&M,Uma Ranjit Malhotra,Promoter Group,Equity Shares,0.14,,,Sell,1550164,2023-12-26,Others,0,1
+M&M,Uma Ranjit Malhotra,Promoter Group,Equity Shares,0.08,,,Buy,1732269,2023-12-26,Others,0,1
+M&M,Ms. Nisheeta Labroo,Promoter Group,Equity Shares,0.01,,,Buy,170500,2023-12-26,Others,0,1
+M&M,Arthur Serrao,Employees/Designated Employees,Equity Shares,0.0,,,Buy,410,2023-10-13,ESOP,0,1
+M&M,Rakesh Shrinivas Pawaskar,Employees/Designated Employees,Equity Shares,0.0,,,Buy,12077,2023-12-22,ESOP,0,1
+M&M,Arthur Serrao,Employees/Designated Employees,Equity Shares,0.0,,,Buy,956,2023-12-22,ESOP,0,1
+M&M,Mahindra & Mahindra Employees' Stock Option Trust,Other,Equity Shares,3.59,,,Sell,44553964,2023-12-22,ESOP,0,1
+M&M,Vinod Taneja,Employees/Designated Employees,Equity Shares,0.0,408.0,633706.0,Buy,4694,2023-12-22,ESOP,0,1
+M&M,Avinash Bapat,Employees/Designated Employees,Equity Shares,0.0,25.0,43125.0,Buy,18908,2023-12-22,ESOP,0,1
+M&M,Ezhil Selvam Kandasamy,Employees/Designated Employees,Equity Shares,0.0,100.0,161600.0,Buy,10665,2023-12-22,ESOP,0,1
+M&M,Ashutosh Vidwans,Employees/Designated Employees,Equity Shares,0.0,25.0,41800.0,Buy,9509,2023-12-22,ESOP,0,1
+M&M,Naveen Chopra,Employees/Designated Employees,Equity Shares,0.0,75.0,126950.0,Buy,3899,2023-12-22,ESOP,0,1
+M&M,Alok Kumar,Employees/Designated Employees,Equity Shares,0.0,50.0,85197.0,Buy,27775,2023-12-22,ESOP,0,1
+M&M,Narayan Shankar,Key Managerial Personnel,Equity Shares,0.0,50.0,86500.0,Buy,51239,2023-12-22,ESOP,0,1
+M&M,ANISH DILIP SHAH,Director,Equity Shares,0.01,200.0,328770.0,Buy,199065,2023-12-22,ESOP,0,1
+M&M,Yatinder Nath,Employees/Designated Employees,Equity Shares,0.0,1101.0,1749214.0,Sell,3768,2023-12-05,Market Sale,0,1
+M&M,Yatinder Nath,Employees/Designated Employees,Equity Shares,0.0,,,Sell,2768,2023-12-06,Market Sale,0,1
+M&M,Soumitra Sengupta,Employees/Designated Employees,Equity Shares,0.0,2200.0,3422650.0,Sell,Nil,2023-12-15,Market Sale,0,1
+M&M,Anjali K. Mahindra,Employees/Designated Employees,Equity Shares,0.02,2000.0,3308500.0,Sell,242962,2023-12-15,Market Sale,0,1
+M&M,Ashutosh Vidwans,Employees/Designated Employees,Equity Shares,0.0,,,Sell,5735,2023-11-21,Market Sale,0,1
+M&M,Ashutosh Vidwans,Employees/Designated Employees,Equity Shares,0.0,,,Sell,5135,2023-11-28,Market Sale,0,1
+M&M,Santanu Sinha,Employees/Designated Employees,Equity Shares,0.0,,,Sell,5185,2023-12-14,Market Sale,0,1
+M&M,Ashutosh Vidwans,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6190,2023-11-17,Market Sale,0,1
+M&M,Ashutosh Vidwans,Employees/Designated Employees,Equity Shares,0.0,,,Buy,8010,2023-12-12,ESOP,0,1
+M&M,Hoshedar Havewala,Employees/Designated Employees,Equity Shares,0.0,,,Buy,3408,2023-12-12,ESOP,0,1
+M&M,Ruka Prasad,Employees/Designated Employees,Equity Shares,0.0,0.0,0.0,Buy,2820,2023-12-12,ESOP,0,1
+M&M,Damodhar Rajanna Tota,Employees/Designated Employees,Equity Shares,0.0,183300.0,55906500.0,Sell,9593,2023-12-06,Market Sale,0,1
+M&M,Damodhar Rajanna Tota,Employees/Designated Employees,Equity Shares,0.0,0.0,0.0,Sell,10000,2023-11-30,Market Sale,0,1
+M&M,Damodhar Rajanna Tota,Employees/Designated Employees,Equity Shares,0.0,125500.0,38277500.0,Sell,9900,2023-12-05,Market Sale,0,1
+M&M,Ruka Prasad,Employees/Designated Employees,Equity Shares,0.0,83000.0,25315000.0,Buy,2130,2023-12-04,Market Purchase,0,1
+M&M,Damodhar Rajanna Tota,Employees/Designated Employees,Equity Shares,0.0,0.0,0.0,Sell,10100,2023-11-29,Market Sale,0,1
+M&M,Sunil Johnson,Employees/Designated Employees,Equity Shares,0.0,123000.0,37515000.0,Buy,11307,2023-12-12,ESOP,0,1
+M&M,Dipankar Ray,Employees/Designated Employees,Equity Shares,0.0,0.0,0.0,Buy,18646,2023-12-12,ESOP,0,1
+M&M,Gopalkrishna Kulkarni,Employees/Designated Employees,Equity Shares,0.0,84000.0,25620000.0,Buy,4162,2023-12-12,ESOP,0,1
+M&M,Tarakarama Pavana,Employees/Designated Employees,Equity Shares,0.0,0.0,0.0,Buy,6078,2023-12-12,ESOP,0,1
+M&M,Asha Kharga,Employees/Designated Employees,Equity Shares,0.0,127500.0,38887500.0,Buy,6759,2023-12-12,ESOP,0,1
+M&M,RAJEEV RELLAN,Employees/Designated Employees,Equity Shares,0.0,0.0,0.0,Buy,63186,2023-12-12,ESOP,0,1
+M&M,JOYDEEP MOITRA,Employees/Designated Employees,Equity Shares,0.0,92000.0,28060000.0,Buy,31965,2023-12-12,ESOP,0,1
+M&M,Ravindra Shahane,Employees/Designated Employees,Equity Shares,0.0,0.0,0.0,Buy,28401,2023-12-12,ESOP,0,1
+M&M,Ajay Saran Sharma,Employees/Designated Employees,Equity Shares,0.0,93000.0,28365000.0,Buy,2891,2023-12-12,ESOP,0,1
+M&M,Amit Desai,Employees/Designated Employees,Equity Shares,0.0,0.0,0.0,Buy,5994,2023-12-12,ESOP,0,1
+M&M,Rakesh Soni,Employees/Designated Employees,Equity Shares,0.0,0.0,0.0,Buy,6798,2023-12-12,ESOP,0,1
+M&M,MAHESH KULKARNI,Employees/Designated Employees,Equity Shares,0.0,125500.0,38277500.0,Buy,26848,2023-12-12,ESOP,0,1
+M&M,SACHIN AROLKAR,Employees/Designated Employees,Equity Shares,0.0,0.0,0.0,Buy,75164,2023-12-12,ESOP,0,1
+M&M,Nagendra Pansare,Employees/Designated Employees,Equity Shares,0.0,125500.0,38277500.0,Buy,17468,2023-12-12,ESOP,0,1
+M&M,Soumitra Sengupta,Employees/Designated Employees,Equity Shares,0.0,127700.0,38948500.0,Buy,2448,2023-12-12,ESOP,0,1
+M&M,Abhay Dixit,Employees/Designated Employees,Equity Shares,0.0,0.0,0.0,Buy,28831,2023-12-12,ESOP,0,1
+M&M,Rakesh Shrinivas Pawaskar,Employees/Designated Employees,Equity Shares,0.0,,,Buy,11938,2023-12-12,ESOP,0,1
+M&M,Rajesh Jejurikar,Director,Equity Shares,0.0,250.0,424668.0,Buy,84647,2023-12-12,ESOP,0,1
+M&M,Vinayak P Narvekar,Employees/Designated Employees,Equity Shares,0.0,200.0,349496.0,Buy,31907,2023-12-12,ESOP,0,1
+M&M,Balkrishna Parulekar,Employees/Designated Employees,Equity Shares,0.0,350.0,572390.0,Buy,20909,2023-12-12,ESOP,0,1
+M&M,Ravindra Shahane,Employees/Designated Employees,Equity Shares,0.0,129.0,202011.0,Buy,28401,2023-12-12,ESOP,0,1
+M&M,Mahindra & Mahindra Employees' Stock Option Trust,Other,Equity Shares,3.6,600.0,924000.0,Sell,44617153,2023-12-12,ESOP,0,1
+M&M,Ashish Lath,Employees/Designated Employees,Equity Shares,0.0,,,Buy,2593,2023-12-12,ESOP,0,1
+M&M,Manish Kumar Gupta,Employees/Designated Employees,Equity Shares,0.0,,,Buy,7733,2023-12-12,ESOP,0,1
+M&M,Ravindra Shahane,Employees/Designated Employees,Equity Shares,0.0,,,Sell,29240,2023-11-16,Market Sale,0,1
+M&M,Devang Shastri,Employees/Designated Employees,Equity Shares,0.0,,,Sell,5022,2023-11-13,Market Sale,0,1
+M&M,Devang Shastri,Employees/Designated Employees,Equity Shares,0.0,,,Buy,5418,2023-11-24,ESOP,0,1
+M&M,Ravindra Shahane,Employees/Designated Employees,Equity Shares,0.0,,,Sell,28740,2023-11-30,Market Sale,0,1
+M&M,Ravindra Shahane,Employees/Designated Employees,Equity Shares,0.0,,,Sell,28240,2023-11-30,Market Sale,0,1
+M&M,Ravindra Shahane,Employees/Designated Employees,Equity Shares,0.0,,,Sell,30208,2023-11-15,Market Sale,0,1
+M&M,Ravindra Shahane,Employees/Designated Employees,Equity Shares,0.0,,,Sell,27740,2023-12-06,Market Sale,0,1
+M&M,Subodh Morye,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-06,Market Sale,0,1
+M&M,Rajiv Mehta,Employees/Designated Employees,Equity Shares,0.0,,,Sell,14000,2023-12-06,Market Sale,0,1
+M&M,Mr. Harish Chavan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,30061,2023-12-05,Market Sale,0,1
+M&M,Mr. Vetsa Sitaramayya,Employees/Designated Employees,Equity Shares,0.0,,,Sell,11826,2023-12-05,Market Sale,0,1
+M&M,Mr. Vetsa Sitaramayya,Employees/Designated Employees,Equity Shares,0.0,,,Sell,12826,2023-12-05,Market Sale,0,1
+M&M,GIJU KURIAN,Employees/Designated Employees,Equity Shares,0.0,,,Sell,8218,2023-12-06,Market Sale,0,1
+M&M,Mr. Rajeshwar Tripathi,Employees/Designated Employees,Equity Shares,0.0,,,Sell,10200,2023-12-05,Market Sale,0,1
+M&M,Mr. Rajeshwar Tripathi,Employees/Designated Employees,Equity Shares,0.0,,,Sell,11200,2023-12-04,Market Sale,0,1
+M&M,Rajesh Jejurikar,Director,Equity Shares,0.0,,,Sell,54095,2023-12-05,Market Sale,0,1
+M&M,Mr. Shriprakash Shukla,Employees/Designated Employees,Equity Shares,0.01,,,Sell,102955,2023-11-29,Market Sale,0,1
+M&M,Mr. Rohit S. Bhatia,Employees/Designated Employees,Equity Shares,0.0,,,Buy,26096,2023-11-24,ESOP,0,1
+M&M,Vinay Khanolkar,Employees/Designated Employees,Equity Shares,0.0,,,Buy,10744,2023-11-24,ESOP,0,1
+M&M,Vinay Khanolkar,Employees/Designated Employees,Equity Shares,0.0,,,Buy,11668,2023-11-24,ESOP,0,1
+M&M,Usha Sunder,Employees/Designated Employees,Equity Shares,0.0,,,Buy,12779,2023-11-24,ESOP,0,1
+M&M,R. Shankar,Employees/Designated Employees,Equity Shares,0.0,,,Buy,10414,2023-11-24,ESOP,0,1
+M&M,Vijay Nair,Employees/Designated Employees,Equity Shares,0.0,,,Buy,10052,2023-11-24,ESOP,0,1
+M&M,Abhimanyu Sen,Employees/Designated Employees,Equity Shares,0.0,,,Buy,7040,2023-11-24,ESOP,0,1
+M&M,Mahindra & Mahindra Employees' Stock Option Trust,Other,Equity Shares,3.6,,,Sell,44759111,2023-11-24,ESOP,0,1
+M&M,Shriniwas Mantri,Employees/Designated Employees,Equity Shares,0.0,,,Buy,10853,2023-11-24,ESOP,0,1
+M&M,Mr. Rajeshwar Tripathi,Employees/Designated Employees,Equity Shares,0.0,,,Sell,12481,2023-11-22,Market Sale,0,1
+M&M,Amit Desai,Employees/Designated Employees,Equity Shares,0.0,,,Sell,2764,2023-11-22,Market Sale,0,1
+M&M,Baneswar Banerjee,Employees/Designated Employees,Equity Shares,0.0,,,Sell,7804,2023-11-16,Market Sale,0,1
+M&M,Baneswar Banerjee,Employees/Designated Employees,Equity Shares,0.0,450.0,2801755.0,Sell,5504,2023-11-17,Market Sale,0,1
+M&M,Baneswar Banerjee,Employees/Designated Employees,Equity Shares,0.0,,,Sell,5504,2023-11-17,Market Sale,0,1
+M&M,Baneswar Banerjee,Employees/Designated Employees,Equity Shares,0.0,,,Sell,7804,2023-11-16,Market Sale,0,1
+M&M,Vaibhav Srivastava,Employees/Designated Employees,Equity Shares,0.0,,,Sell,72,2023-11-17,Market Sale,0,1
+M&M,Rajesh Jejurikar,Director,Equity Shares,0.01,,,Sell,65095,2023-11-17,Market Sale,0,1
+M&M,Vaibhav Srivastava,Employees/Designated Employees,Equity Shares,0.0,,,Sell,2272,2023-11-15,Market Sale,0,1
+M&M,Ritesh Agrawal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,13085,2023-11-13,Market Sale,0,1
+M&M,Ritesh Agrawal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,13285,2023-11-13,Market Sale,0,1
+M&M,Ritesh Agrawal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,12685,2023-11-17,Market Sale,0,1
+M&M,Vaibhav Srivastava,Employees/Designated Employees,Equity Shares,0.0,1700.0,10604957.0,Sell,2072,2023-11-16,Market Sale,0,1
+M&M,Asha Kharga,Employees/Designated Employees,Equity Shares,0.0,,,Buy,3379,2023-11-16,ESOP,0,1
+M&M,Vaibhav Srivastava,Employees/Designated Employees,Equity Shares,0.0,,,Sell,1972,2023-11-16,Market Sale,0,1
+M&M,Ritesh Agrawal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,12735,2023-11-17,Market Sale,0,1
+M&M,Ritesh Agrawal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,12885,2023-11-16,Market Sale,0,1
+M&M,Ritesh Agrawal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,12985,2023-11-15,Market Sale,0,1
+M&M,Mr. Satish Karandikar,Employees/Designated Employees,Equity Shares,0.0,,,Buy,23808,2023-11-16,ESOP,0,1
+M&M,Puneet Mehta,Employees/Designated Employees,Equity Shares,0.0,,,Buy,9009,2023-11-16,ESOP,0,1
+M&M,Mahindra & Mahindra Employees' Stock Option Trust,Other,Equity Shares,3.6,,,Sell,44794269,2023-11-16,ESOP,0,1
+M&M,Piran Merchant,Employees/Designated Employees,Equity Shares,0.0,,,Buy,5015,2023-10-25,ESOP,0,1
+M&M,Jalaj Gupta,Employees/Designated Employees,Equity Shares,0.0,,,Buy,7307,2023-10-25,ESOP,0,1
+M&M,Vijay Nair,Employees/Designated Employees,Equity Shares,0.0,,,Buy,8995,2023-10-25,ESOP,0,1
+M&M,Mahindra & Mahindra Employees' Stock Option Trust,Employees/Designated Employees,Equity Shares,3.61,,,Sell,44829014,2023-10-25,ESOP,0,1
+M&M,Soumitra Sengupta,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-09-26,Market Sale,0,1
+MPHASIS,Ramanathan Srikumar,Employees/Designated Employees,Equity Shares,0.01,1.0,1679.0,Sell,17625,2023-12-19,Market Sale,0,1
+MPHASIS,MIRZA MURTHUZA ALI,Employees/Designated Employees,Equity Shares,0.0,,,Buy,140,2023-11-22,ESOP,0,1
+MPHASIS,MIRZA MURTHUZA ALI,Employees/Designated Employees,Equity Shares,0.0,,,Buy,702,2023-12-19,ESOP,0,1
+MPHASIS,MIRZA MURTHUZA ALI,Employees/Designated Employees,Equity Shares,0.0,,,Sell,12,2023-12-22,Market Sale,0,1
+MPHASIS,ROHINI SURI,Employees/Designated Employees,Equity Shares,0.0,,,Buy,8321,2023-12-20,ESOP,0,1
+MPHASIS,ROHINI SURI,Employees/Designated Employees,Equity Shares,0.0,,,Sell,401,2023-12-22,Market Sale,0,1
+MPHASIS,Manikantan T,Employees/Designated Employees,Equity Shares,0.0,,,Sell,5708,2023-12-22,Market Sale,0,1
+MPHASIS,SRIKANTH KARRA,Employees/Designated Employees,Equity Shares,0.0,,,Sell,8813,2023-12-19,Market Sale,0,1
+MPHASIS,Manikantan T,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6108,2023-12-20,Market Sale,0,1
+MPHASIS,Manikantan T,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6708,2023-12-01,Market Sale,0,1
+MPHASIS,Manikantan T,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6800,2023-11-22,Market Sale,0,1
+MPHASIS,ROHINI SURI,Employees/Designated Employees,Equity Shares,0.01,,,Sell,12920,2023-12-20,Market Sale,0,1
+MPHASIS,ROHINI SURI,Employees/Designated Employees,Equity Shares,0.0,,,Sell,7920,2023-12-20,Market Sale,0,1
+MPHASIS,Manikantan T,Employees/Designated Employees,Equity Shares,0.0,,,Buy,6908,2023-11-22,ESOP,0,1
+MPHASIS,Ramanathan Srikumar,Employees/Designated Employees,Equity Shares,0.01,,,Sell,23125,2023-12-18,Market Sale,0,1
+MPHASIS,Ramanathan Srikumar,Employees/Designated Employees,Equity Shares,0.01,,,Buy,28625,2023-10-25,ESOP,0,1
+MPHASIS,Shreerekha Vijayalakshmi,Employees/Designated Employees,Equity Shares,0.01,,,Buy,27421,2023-12-19,ESOP,0,1
+MPHASIS,Shreerekha Vijayalakshmi,Employees/Designated Employees,Equity Shares,0.01,,,Buy,25701,2023-12-19,ESOP,0,1
+MPHASIS,ROHINI SURI,Employees/Designated Employees,Equity Shares,0.0,,,Buy,17920,2023-12-19,ESOP,0,1
+MPHASIS,Indranil Roy,Employees/Designated Employees,Equity Shares,0.0,,,Buy,9317,2023-12-19,ESOP,0,1
+MPHASIS,Indranil Roy,Employees/Designated Employees,Equity Shares,0.0,,,Buy,11187,2023-12-19,ESOP,0,1
+MPHASIS,Indranil Roy,Employees/Designated Employees,Equity Shares,0.0,,,Buy,757,2023-11-22,ESOP,0,1
+MPHASIS,SRIKANTH KARRA,Employees/Designated Employees,Equity Shares,0.0,,,Sell,10813,2023-12-18,Market Sale,0,1
+MPHASIS,ROHINI SURI,-,Equity Shares,0.0,,,Sell,Nil,2023-12-15,Market Sale,0,1
+MPHASIS,RAHUL WADDEHRA,Employees/Designated Employees,Equity Shares,0.0,,,Sell,207,2023-12-19,Market Sale,0,1
+MPHASIS,RAHUL WADDEHRA,Employees/Designated Employees,Equity Shares,0.0,,,Sell,457,2023-12-19,Market Sale,0,1
+MPHASIS,SRIKANTH KARRA,Employees/Designated Employees,Equity Shares,0.0,,,Sell,11313,2023-12-15,Market Sale,0,1
+MPHASIS,Ashok Venkataramasharma Subbarama,Employees/Designated Employees,Equity Shares,0.0,,,Buy,4333,2023-11-22,ESOP,0,1
+MPHASIS,Eric Winston,Employees/Designated Employees,Equity Shares,0.0,,,Buy,30255,2023-10-25,ESOP,0,1
+MPHASIS,ROHINI SURI,Employees/Designated Employees,Equity Shares,0.0,,,Sell,9000,2023-12-15,Market Sale,0,1
+MPHASIS,MANISH DUGAR,Key Managerial Personnel,Equity Shares,0.0,,,Sell,5326,2023-12-15,Market Sale,0,1
+MPHASIS,Eric Winston,Employees/Designated Employees,Equity Shares,0.01,,,Sell,23755,2023-12-15,Market Sale,0,1
+MPHASIS,Ashok Venkataramasharma Subbarama,Employees/Designated Employees,Equity Shares,0.0,,,Sell,233,2023-12-15,Market Sale,0,1
+MPHASIS,RAMESH KRISHNAN,-,Equity Shares,0.0,,,Sell,5500,2023-12-14,Market Sale,0,1
+MPHASIS,ANURAG BHATIA,-,Equity Shares,0.0,300.0,1167630.0,Sell,81,2023-12-12,Market Sale,0,1
+MPHASIS,MANISH DUGAR,Key Managerial Personnel,Equity Shares,0.0,5.0,27870.0,Sell,6126,2023-12-14,Market Sale,0,1
+MPHASIS,MANISH DUGAR,Key Managerial Personnel,Equity Shares,0.0,51.0,198497.0,Sell,5826,2023-12-14,Market Sale,0,1
+MPHASIS,JAYAPRAKASH BANDU,-,Equity Shares,0.0,51.0,307257.0,Sell,Nil,2023-12-14,Market Sale,0,1
+MPHASIS,RAHUL WADDEHRA,-,Equity Shares,0.0,47.0,304795.0,Sell,1207,2023-12-14,Market Sale,0,1
+MPHASIS,JAYAPRAKASH BANDU,-,Equity Shares,0.0,3.0,18983.0,Buy,5081,2023-11-22,ESOP,0,1
+MPHASIS,RAHUL WADDEHRA,-,Equity Shares,0.0,50.0,194605.0,Sell,707,2023-12-14,Market Sale,0,1
+MPHASIS,ROHINI SURI,-,Equity Shares,0.0,100.0,388975.0,Sell,9020,2023-12-12,Market Sale,0,1
+MPHASIS,JAYAPRAKASH BANDU,-,Equity Shares,0.0,100.0,670000.0,Sell,2000,2023-12-13,Market Sale,0,1
+MPHASIS,RAMESH KRISHNAN,-,Equity Shares,0.0,100.0,665600.0,Sell,6000,2023-12-12,Market Sale,0,1
+MPHASIS,RAMESH KRISHNAN,-,Equity Shares,0.0,50.0,326200.0,Sell,7500,2023-12-11,Market Sale,0,1
+MPHASIS,MANISH DUGAR,Key Managerial Personnel,Equity Shares,0.0,50.0,322400.0,Sell,6226,2023-12-12,Market Sale,0,1
+MPHASIS,MANISH DUGAR,Key Managerial Personnel,Equity Shares,0.0,600.0,3947040.0,Sell,6426,2023-12-08,Market Sale,0,1
+MPHASIS,ROHINI SURI,-,Equity Shares,0.0,50.0,32300.0,Buy,17920,2023-12-07,ESOP,0,1
+MPHASIS,MANISH DUGAR,Key Managerial Personnel,Equity Shares,0.0,100.0,635800.0,Sell,6626,2023-12-08,Market Sale,0,1
+MPHASIS,RAHUL WADDEHRA,-,Equity Shares,0.0,50.0,322400.0,Buy,1025,2023-11-22,ESOP,0,1
+MPHASIS,MANISH DUGAR,Key Managerial Personnel,Equity Shares,0.0,3000.0,18817630.0,Sell,7026,2023-12-08,Market Sale,0,1
+MPHASIS,ROHINI SURI,-,Equity Shares,0.0,2000.0,12522289.0,Sell,10020,2023-12-11,Market Sale,0,1
+MPHASIS,RAHUL WADDEHRA,-,Equity Shares,0.0,1858.0,11519600.0,Buy,2207,2023-12-07,ESOP,0,1
+MPHASIS,RAHUL WADDEHRA,-,Equity Shares,0.0,205.0,1285438.0,Buy,3207,2023-12-07,ESOP,0,1
+MPHASIS,KATHRYN TERRY,-,Equity Shares,0.0,100.0,627000.0,Buy,309,2023-11-22,ESOP,0,1
+MPHASIS,KATHRYN TERRY,-,Equity Shares,0.0,50.0,313287.0,Buy,3490,2023-12-07,ESOP,0,1
+MPHASIS,KATHRYN TERRY,-,Equity Shares,0.0,50.0,314000.0,Buy,4938,2023-12-07,ESOP,0,1
+MPHASIS,SRIKANTH KARRA,-,Equity Shares,0.0,50.0,306669.0,Buy,9533,2023-10-25,ESOP,0,1
+MPHASIS,ANURAG BHATIA,-,Equity Shares,0.0,1900.0,11842700.0,Buy,6581,2023-12-07,ESOP,0,1
+MPHASIS,SRIKANTH KARRA,-,Equity Shares,0.0,6866.0,43587015.0,Buy,12813,2023-12-07,ESOP,0,1
+MPHASIS,MANISH DUGAR,Key Managerial Personnel,Equity Shares,0.0,50.0,313774.0,Sell,6826,2023-12-08,Market Sale,0,1
+MPHASIS,ANIL SANAN,Employees/Designated Employees,Equity Shares,0.0,,,Buy,27725,2023-11-22,ESOP,0,1
+MPHASIS,ANIL SANAN,Employees/Designated Employees,Equity Shares,0.0,,,Buy,22265,2023-10-25,ESOP,0,1
+MPHASIS,Rohit Jayachandran,Employees/Designated Employees,Equity Shares,0.0,,,Sell,24591,2023-12-07,Market Sale,0,1
+MPHASIS,Manish Dugar,Key Managerial Personnel,Equity Shares,0.0,,,Sell,7226,2023-12-07,Market Sale,0,1
+MPHASIS,Rohit Jayachandran,Employees/Designated Employees,Equity Shares,0.0,,,Buy,35346,2023-10-25,ESOP,0,1
+MPHASIS,Manish Dugar,Key Managerial Personnel,Equity Shares,0.0,,,Sell,7426,2023-12-01,Market Sale,0,1
+MPHASIS,Ramesh Krishnan,Employees/Designated Employees,Equity Shares,0.0,,,Buy,8500,2023-12-01,ESOP,0,1
+MPHASIS,Shreerekha Vijayalakshmi,Employees/Designated Employees,Equity Shares,0.0,,,Buy,20861,2023-12-01,ESOP,0,1
+MPHASIS,Albertus Martinus Hooyman,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-11-30,Market Sale,0,1
+MPHASIS,Manish Dugar,Key Managerial Personnel,Equity Shares,0.0,,,Sell,8726,2023-11-30,Market Sale,0,1
+MPHASIS,ROHINI SURI,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-11-16,Market Sale,0,1
+MPHASIS,Ramesh Krishnan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,8197,2023-11-09,Market Sale,0,1
+MPHASIS,Ramesh Krishnan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,8697,2023-11-07,Market Sale,0,1
+MPHASIS,Shreerekha Vijayalakshmi,Employees/Designated Employees,Equity Shares,0.01,,,Sell,15598,2023-11-07,Market Sale,0,1
+MPHASIS,Shreerekha Vijayalakshmi,Employees/Designated Employees,Equity Shares,0.01,,,Sell,14598,2023-11-07,Market Sale,0,1
+MPHASIS,Nitin Rakesh,Key Managerial Personnel,Equity Shares,0.09,,,Sell,149429,2023-11-07,Market Sale,0,1
+MPHASIS,Nitin Rakesh,Key Managerial Personnel,Equity Shares,0.08,,,Buy,183785,2023-11-01,ESOP,0,1
+MPHASIS,Nitin Rakesh,Key Managerial Personnel,Equity Shares,0.1,,,Sell,169429,2023-11-06,Market Sale,0,1
+MPHASIS,Ramesh Krishnan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,9197,2023-11-06,Market Sale,0,1
+MPHASIS,DINESH VK KUMAR,Employees/Designated Employees,Equity Shares,0.0,,,Sell,7831,2023-10-26,Market Sale,0,1
+GOODLUCK,Ritu Garg,Promoter Group,Warrants,0.4,,,Buy,Nil,2024-01-06,Others,0,0
+GOODLUCK,Ashish Garg,Promoter Group,Equity Shares,0.4,,,Buy,307300,2024-01-06,Preferential Offer,0,0
+GOODLUCK,Ashish Garg,Promoter Group,Warrants,0.59,,,Buy,Nil,2024-01-06,Others,0,0
+GOODLUCK,Ritu Garg,Promoter Group,Equity Shares,0.71,,,Buy,346871,2024-01-06,Preferential Offer,0,0
+GOODLUCK,Manish Garg,Promoter Group,Equity Shares,2.43,,,Buy,838107,2024-01-06,Preferential Offer,0,0
+GOODLUCK,Manish Garg,Promoter Group,Warrants,0.54,,,Buy,83350,2024-01-06,Others,0,0
+GOODLUCK,Shikha Garg,Promoter Group,Equity Shares,1.61,,,Buy,622250,2024-01-06,Preferential Offer,0,0
+GOODLUCK,Shikha Garg,Promoter Group,Warrants,0.91,,,Buy,160875,2024-01-06,Others,0,0
+GOODLUCK,Umesh Garg,Promoter Group,Equity Shares,1.79,,,Buy,640768,2024-01-06,Preferential Offer,0,0
+GOODLUCK,Umesh Garg,Promoter Group,Warrants,0.54,,,Buy,83325,2024-01-06,Others,0,0
+GOODLUCK,Swati Bansal,Promoter Group,Equity Shares,0.24,,,Buy,202500,2024-01-06,Preferential Offer,0,0
+GOODLUCK,Swati Bansal,Promoter Group,Warrants,0.41,,,Buy,Nil,2024-01-06,Others,0,0
+GOODLUCK,Dhruv Aggarwal,Promoter Group,Equity Shares,0.24,,,Buy,167000,2024-01-06,Preferential Offer,0,0
+GOODLUCK,Dhruv Aggarwal,Promoter Group,Warrants,0.42,,,Buy,37500,2024-01-06,Others,0,0
+GOODLUCK,Ankita Agarwal,Promoter Group,Equity Shares,1.2,,,Buy,466314,2024-01-06,Preferential Offer,0,0
+GOODLUCK,Ankita Agarwal,Promoter Group,Warrants,0.64,,,Buy,107250,2024-01-06,Others,0,0
+GOODLUCK,Radhika Garg,Promoter Group,Warrants,0.4,,,Buy,Nil,2024-01-06,Others,0,0
+GOODLUCK,Radhika Garg,Promoter Group,Equity Shares,0.71,,,Buy,345500,2024-01-06,Preferential Offer,0,0
+GOODLUCK,Parul Garg,Promoter Group,Warrants,0.4,,,Buy,Nil,2024-01-06,Others,0,0
+GOODLUCK,Parul Garg,Promoter Group,Equity Shares,0.71,,,Buy,345500,2024-01-06,Preferential Offer,0,0
+GOODLUCK,Bhavya Garg,Promoter Group,Equity Shares,0.8,,,Buy,377700,2024-01-06,Preferential Offer,0,0
+GOODLUCK,Bhavya Garg,Promoter Group,Warrants,0.41,,,Buy,Nil,2024-01-06,Others,0,0
+GOODLUCK,Rajat Garg,Promoter Group,Warrants,0.21,,,Buy,122100,2023-11-09,Preferential Offer,0,0
+GOODLUCK,Rajat Garg,Promoter Group,Equity Shares,0.99,,,Buy,291920,2023-11-09,Others,0,0
+GOODLUCK,Saras Garg,Promoter Group,Warrants,0.21,,,Buy,122100,2023-11-09,Preferential Offer,0,0
+GOODLUCK,Tushar Garg,Promoter Group,Equity Shares,0.98,,,Buy,288000,2023-11-09,Others,0,0
+GOODLUCK,Tushar Garg,Promoter Group,Warrants,0.17,,,Buy,110100,2023-11-09,Preferential Offer,0,0
+GOODLUCK,ASHISH GARG AND SONS HUF,Promoter Group,Equity Shares,0.27,,,Buy,78938,2023-11-09,Others,0,0
+GOODLUCK,ASHISH GARG AND SONS HUF,Promoter Group,Warrants,0.0,,,Buy,75000,2023-11-09,Preferential Offer,0,0
+GOODLUCK,Dhruv Aggarwal,Promoter Group,Equity Shares,0.25,,,Buy,75000,2023-11-09,Others,0,0
+GOODLUCK,Ankita Agarwal,Promoter Group,Warrants,0.55,,,Buy,200250,2023-11-09,Preferential Offer,0,0
+GOODLUCK,Saras Garg,Promoter Group,Equity Shares,1.07,,,Buy,314500,2023-11-09,Others,0,0
+GOODLUCK,Dhruv Aggarwal,Promoter Group,Warrants,0.31,,,Buy,129500,2023-11-09,Preferential Offer,0,0
+GOODLUCK,Ankita Agarwal,Promoter Group,Equity Shares,1.27,,,Buy,373314,2023-11-09,Others,0,0
+GOODLUCK,Umesh Garg,Promoter Group,Warrants,0.28,,,Buy,167325,2023-11-09,Preferential Offer,0,0
+GOODLUCK,Umesh Garg,Promoter Group,Equity Shares,1.89,,,Buy,556768,2023-11-09,Others,0,0
+GOODLUCK,Shikha Garg,Promoter Group,Equity Shares,1.69,,,Buy,499250,2023-11-09,Others,0,0
+GOODLUCK,Shikha Garg,Promoter Group,Warrants,0.68,,,Buy,283875,2023-11-09,Preferential Offer,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Buy,6700,2023-12-27,ESOP,0,0
+BAJAJ-AUTO,AJITESH CHATTERJEE,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-11-16,Market Sale,0,0
+BAJAJ-AUTO,AJITESH CHATTERJEE,Employees/Designated Employees,Equity Shares,0.0,,,Buy,51,2023-11-22,ESOP,0,0
+BAJAJ-AUTO,AJITESH CHATTERJEE,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-11-28,Market Sale,0,0
+BAJAJ-AUTO,AJITESH CHATTERJEE,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-27,Market Sale,0,0
+BAJAJ-AUTO,AJITESH CHATTERJEE,Employees/Designated Employees,Equity Shares,0.0,,,Sell,47,2023-12-14,Market Sale,0,0
+BAJAJ-AUTO,AJITESH CHATTERJEE,Employees/Designated Employees,Equity Shares,0.0,,,Buy,50,2023-12-05,ESOP,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Buy,100,2023-12-28,ESOP,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-28,Market Sale,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6400,2023-12-27,Market Sale,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6500,2023-12-27,Market Sale,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6750,2023-12-18,Market Sale,0,0
+BAJAJ-AUTO,Ramtilak Ananthan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,100,2023-12-27,Market Sale,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6700,2023-12-18,Market Sale,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6600,2023-12-22,Market Sale,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6550,2023-12-26,Market Sale,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6600,2023-12-22,Market Sale,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6750,2023-12-18,Market Sale,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6700,2023-12-18,Market Sale,0,0
+BAJAJ-AUTO,NAVEEN NIJHAWAN,Employees/Designated Employees,Equity Shares,0.0,,,Buy,2170,2023-11-23,ESOP,0,0
+BAJAJ-AUTO,NAVEEN NIJHAWAN,Employees/Designated Employees,Equity Shares,0.0,,,Sell,2229,2023-12-21,Market Sale,0,0
+BAJAJ-AUTO,NAVEEN NIJHAWAN,Employees/Designated Employees,Equity Shares,0.0,,,Buy,2370,2023-12-21,ESOP,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Buy,135,2023-12-21,ESOP,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-21,Market Sale,0,0
+BAJAJ-AUTO,Ramtilak Ananthan,Employees/Designated Employees,Equity Shares,0.0,,,Buy,700,2023-12-21,ESOP,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6900,2023-12-15,Market Sale,0,0
+BAJAJ-AUTO,ASWIN JAIKANTH,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-15,Market Sale,0,0
+BAJAJ-AUTO,ASWIN JAIKANTH,Employees/Designated Employees,Equity Shares,0.0,,,Sell,250,2023-12-15,Market Sale,0,0
+BAJAJ-AUTO,Jyothi Madhavadas Kini,Immediate relative,Equity Shares,0.0,,,Buy,2344,2023-12-15,Gift,0,0
+BAJAJ-AUTO,MADHAVDAS KINI,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-15,Gift,0,0
+BAJAJ-AUTO,MADHAVDAS KINI,Employees/Designated Employees,Equity Shares,0.0,,,Buy,750,2023-12-14,ESOP,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6800,2023-12-18,Market Sale,0,0
+BAJAJ-AUTO,Ramtilak Ananthan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-15,Market Sale,0,0
+BAJAJ-AUTO,ASWIN JAIKANTH,Employees/Designated Employees,Equity Shares,0.0,,,Buy,400,2023-12-14,ESOP,0,0
+BAJAJ-AUTO,MADHAVDAS KINI,Employees/Designated Employees,Equity Shares,0.0,,,Buy,702,2023-11-30,ESOP,0,0
+BAJAJ-AUTO,MADHAVDAS KINI,Employees/Designated Employees,Equity Shares,0.0,,,Sell,660,2023-12-13,Market Sale,0,0
+BAJAJ-AUTO,MADHAVDAS KINI,Employees/Designated Employees,Equity Shares,0.0,,,Sell,660,2023-12-07,Market Sale,0,0
+BAJAJ-AUTO,MADHAVDAS KINI,Employees/Designated Employees,Equity Shares,0.0,,,Buy,608,2023-11-24,ESOP,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,7000,2023-12-14,Market Sale,0,0
+BAJAJ-AUTO,ZANZARI KAILASH J,Employees/Designated Employees,Equity Shares,0.0,,,Buy,7143,2023-12-14,ESOP,0,0
+BAJAJ-AUTO,MADHAVDAS KINI,Employees/Designated Employees,Equity Shares,0.0,,,Buy,705,2023-12-12,ESOP,0,0
+BAJAJ-AUTO,MADHAVDAS KINI,Employees/Designated Employees,Equity Shares,0.0,,,Buy,705,2023-12-14,ESOP,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-13,Market Sale,0,0
+BAJAJ-AUTO,MADHAVDAS KINI,Employees/Designated Employees,Equity Shares,0.0,,,Buy,656,2023-11-24,ESOP,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Buy,220,2023-12-13,ESOP,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Buy,124,2023-12-04,ESOP,0,0
+BAJAJ-AUTO,Ramtilak Ananthan,Employees/Designated Employees,Equity Shares,0.0,,,Buy,500,2023-12-13,ESOP,0,0
+BAJAJ-AUTO,Govind Agrawal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-13,Market Sale,0,0
+BAJAJ-AUTO,Ramtilak Ananthan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-04,Market Sale,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-05,Market Sale,0,0
+BAJAJ-AUTO,BADRI NARAYANA SUBRAMANIYAN,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-06,Market Sale,0,0
+BAJAJ-AUTO,Govind Agrawal,Employees/Designated Employees,Equity Shares,0.0,,,Buy,451,2023-12-07,ESOP,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Buy,7000,2023-12-05,ESOP,0,0
+BAJAJ-AUTO,ASWIN JAIKANTH,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-05,Market Sale,0,0
+BAJAJ-AUTO,ASWIN JAIKANTH,Employees/Designated Employees,Equity Shares,0.0,,,Buy,200,2023-12-05,ESOP,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Buy,100,2023-11-30,ESOP,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Buy,46,2023-11-13,ESOP,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Sell,5,2023-11-09,Market Sale,0,0
+BAJAJ-AUTO,SAMARDEEP SUBANDH,Employees/Designated Employees,Equity Shares,0.0,,,Buy,5656,2023-12-05,ESOP,0,0
+BAJAJ-AUTO,BADRI NARAYANA SUBRAMANIYAN,Employees/Designated Employees,Equity Shares,0.0,,,Buy,519,2023-12-05,ESOP,0,0
+BAJAJ-AUTO,Govind Agrawal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-05,Market Sale,0,0
+BAJAJ-AUTO,Chetan Joshi,Employees/Designated Employees,Equity Shares,0.0,,,Sell,100,2023-12-05,Market Sale,0,0
+BAJAJ-AUTO,SAMARDEEP SUBANDH,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-05,Market Sale,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-11-20,Market Sale,0,0
+BAJAJ-AUTO,Ramtilak Ananthan,Employees/Designated Employees,Equity Shares,0.0,,,Buy,600,2023-12-01,ESOP,0,0
+BAJAJ-AUTO,SARANG KANADE,Employees/Designated Employees,Equity Shares,0.0,,,Buy,15346,2023-12-01,ESOP,0,0
+BAJAJ-AUTO,Ramtilak Ananthan,Employees/Designated Employees,Equity Shares,0.0,,,Buy,600,2023-12-01,ESOP,0,0
+BAJAJ-AUTO,SARANG KANADE,Employees/Designated Employees,Equity Shares,0.0,,,Buy,15346,2023-12-01,ESOP,0,0
+BAJAJ-AUTO,SARANG KANADE,Employees/Designated Employees,Equity Shares,0.0,,,Buy,15346,2023-12-01,ESOP,0,0
+BAJAJ-AUTO,Ramtilak Ananthan,Employees/Designated Employees,Equity Shares,0.0,,,Buy,600,2023-12-01,ESOP,0,0
+BAJAJ-AUTO,Chetan Joshi,Employees/Designated Employees,Equity Shares,0.0,,,Buy,374,2023-11-30,ESOP,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6600,2023-11-30,Market Sale,0,0
+BAJAJ-AUTO,S Vishwanathan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,400,2023-11-23,Market Sale,0,0
+BAJAJ-AUTO,S Vishwanathan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,298,2023-11-28,Market Sale,0,0
+BAJAJ-AUTO,Chetan Joshi,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-11-28,Market Sale,0,0
+BAJAJ-AUTO,S Vishwanathan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,600,2023-11-22,Market Sale,0,0
+BAJAJ-AUTO,S Vishwanathan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,502,2023-11-23,Market Sale,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Buy,6900,2023-11-23,ESOP,0,0
+BAJAJ-AUTO,Chetan Joshi,Employees/Designated Employees,Equity Shares,0.0,,,Buy,440,2023-11-23,ESOP,0,0
+BAJAJ-AUTO,Madhavdas Kini,Employees/Designated Employees,Equity Shares,0.0,,,Sell,596,2023-11-24,Market Sale,0,0
+BAJAJ-AUTO,Madhavdas Kini,Employees/Designated Employees,Equity Shares,0.0,,,Buy,639,2023-11-23,ESOP,0,0
+BAJAJ-AUTO,Madhavdas Kini,Employees/Designated Employees,Equity Shares,0.0,,,Buy,627,2023-11-23,ESOP,0,0
+BAJAJ-AUTO,Madhavdas Kini,Employees/Designated Employees,Equity Shares,0.0,,,Sell,579,2023-11-07,Market Sale,0,0
+BAJAJ-AUTO,Madhavdas Kini,Employees/Designated Employees,Equity Shares,0.0,,,Sell,626,2023-11-03,Market Sale,0,0
+BAJAJ-AUTO,Madhavdas Kini,Employees/Designated Employees,Equity Shares,0.0,,,Buy,673,2023-10-25,ESOP,0,0
+BAJAJ-AUTO,S Vishwanathan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,748,2023-11-21,Market Sale,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6050,2023-11-21,Market Sale,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Buy,110,2023-11-03,ESOP,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-11-06,Market Sale,0,0
+BAJAJ-AUTO,C S ANAWALIKAR,Employees/Designated Employees,Equity Shares,0.0,,,Buy,75,2023-11-09,ESOP,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6300,2023-11-15,Market Sale,0,0
+BAJAJ-AUTO,Vikas Sawhney,Employees/Designated Employees,Equity Shares,0.0,,,Sell,100,2023-11-13,Market Sale,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6400,2023-11-12,Market Sale,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6450,2023-11-10,Market Sale,0,0
+BAJAJ-AUTO,Vikas Sawhney,Employees/Designated Employees,Equity Shares,0.0,,,Buy,500,2023-11-09,ESOP,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6400,2023-11-01,Market Sale,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6300,2023-11-01,Market Sale,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Buy,6500,2023-11-08,ESOP,0,0
+BAJAJ-AUTO,Ramtilak Ananthan,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-11-08,Market Sale,0,0
+BAJAJ-AUTO,Ramtilak Ananthan,Employees/Designated Employees,Equity Shares,0.0,,,Buy,600,2023-11-06,ESOP,0,0
+BAJAJ-AUTO,K S GHRIHAPATHY,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-11-06,Market Sale,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Buy,6475,2023-10-31,ESOP,0,0
+BAJAJ-AUTO,S Vishwanathan,Employees/Designated Employees,Equity Shares,0.0,,,Buy,998,2023-10-27,ESOP,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,5775,2023-10-27,Market Sale,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,5950,2023-10-23,Market Sale,0,0
+BAJAJ-AUTO,Zanzari Kailash J,Employees/Designated Employees,Equity Shares,0.0,,,Sell,5925,2023-10-26,Market Sale,0,0
+COFORGE,Sudhir Singh,Key Managerial Personnel,Equity Shares,0.69,,,Buy,515327,2024-01-08,ESOP,0,1
+COFORGE,Joydip Mukherji,Employees/Designated Employees,Equity Shares,0.0,,,Sell,550,2023-12-28,Market Sale,0,1
+COFORGE,Rajeev Batra,Employees/Designated Employees,Equity Shares,0.0,,,Sell,2493,2023-12-29,Market Sale,0,1
+COFORGE,Madan Mohan,Employees/Designated Employees,Equity Shares,0.07,,,Sell,42019,2023-12-29,Market Sale,0,1
+COFORGE,Madan Mohan,Employees/Designated Employees,Equity Shares,0.07,,,Sell,45019,2023-12-28,Market Sale,0,1
+COFORGE,Madhusudan Hegde,Employees/Designated Employees,Equity Shares,0.0,,,Sell,1000,2023-12-22,Market Sale,0,1
+COFORGE,Anupam Jain,Employees/Designated Employees,Equity Shares,0.0,,,Sell,544,2023-12-28,Market Sale,0,1
+COFORGE,Rajeev Pandey,Employees/Designated Employees,Equity Shares,0.0,100.0,635800.0,Sell,350,2023-12-22,Market Sale,0,1
+COFORGE,Rajeev Pandey,Employees/Designated Employees,Equity Shares,0.0,50.0,322400.0,Sell,300,2023-12-22,Market Sale,0,1
+COFORGE,Rajeev Pandey,Employees/Designated Employees,Equity Shares,0.0,50.0,323000.0,Sell,250,2023-12-29,Market Sale,0,1
+COFORGE,Rajeev Pandey,Employees/Designated Employees,Equity Shares,0.0,120.0,353118.0,Sell,450,2023-12-21,Market Sale,0,1
+COFORGE,Sudhir Singh,Key Managerial Personnel,Equity Shares,0.69,141.0,881870.0,Sell,432322,2023-12-29,Market Sale,0,1
+COFORGE,Sudhir Singh,Key Managerial Personnel,Equity Shares,0.71,200.0,588530.0,Sell,434222,2023-12-27,Market Sale,0,1
+COFORGE,Rajeev Pandey,Employees/Designated Employees,Equity Shares,0.0,,,Sell,200,2023-12-29,Market Sale,0,1
+COFORGE,Vikas Vijay Jadhav,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-22,Market Sale,0,1
+COFORGE,Vikas Vijay Jadhav,Employees/Designated Employees,Equity Shares,0.0,,,Sell,10,2023-12-22,Market Sale,0,1
+COFORGE,Sanjeev Prasad,Employees/Designated Employees,Equity Shares,0.04,,,Sell,22655,2023-12-26,Market Sale,0,1
+COFORGE,Sanjeev Prasad,Employees/Designated Employees,Equity Shares,0.05,,,Sell,23155,2023-12-21,Market Sale,0,1
+COFORGE,Bhartendra Gupta,Employees/Designated Employees,Equity Shares,0.0,,,Sell,6590,2023-12-22,Market Sale,0,1
+COFORGE,Sudhir Singh,Key Managerial Personnel,Equity Shares,0.76,,,Sell,441088,2023-12-26,Market Sale,0,1
+COFORGE,Gautam Samanta,Employees/Designated Employees,Equity Shares,0.02,,,Sell,Nil,2023-12-22,Market Sale,0,1
+COFORGE,Rohit Mehra,Employees/Designated Employees,Equity Shares,0.0,,,Sell,4871,2023-12-26,Market Sale,0,1
+COFORGE,John Robert Speight,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-12-22,Market Sale,0,1
+COFORGE,Madan Mohan,Employees/Designated Employees,Equity Shares,0.08,,,Sell,47019,2023-12-22,Market Sale,0,1
+COFORGE,Sanjeev Prasad,Employees/Designated Employees,Equity Shares,0.01,,,Buy,32655,2023-12-20,ESOP,0,1
+COFORGE,Rohit Mehra,Employees/Designated Employees,Equity Shares,0.0,,,Buy,5871,2023-12-20,ESOP,0,1
+COFORGE,Bhartendra Gupta,Employees/Designated Employees,Equity Shares,0.0,,,Buy,8590,2023-12-20,ESOP,0,1
+COFORGE,Ruchi Kulhari,Employees/Designated Employees,Equity Shares,0.0,,,Buy,4696,2023-12-20,ESOP,0,1
+COFORGE,Anupam Jain,Employees/Designated Employees,Equity Shares,0.0,,,Buy,749,2023-12-20,ESOP,0,1
+COFORGE,Joydip Mukherji,Employees/Designated Employees,Equity Shares,0.0,,,Buy,1000,2023-12-20,ESOP,0,1
+COFORGE,Gautam Samanta,Employees/Designated Employees,Equity Shares,0.0,,,Buy,13246,2023-12-12,ESOP,0,1
+COFORGE,John Robert Speight,Employees/Designated Employees,Equity Shares,0.0,,,Buy,1740,2023-12-12,ESOP,0,1
+COFORGE,Rajeev Batra,Employees/Designated Employees,Equity Shares,0.0,,,Buy,4193,2023-12-12,ESOP,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,3273,2023-12-06,Market Sale,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,4485,2023-12-04,Market Sale,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,4523,2023-12-04,Market Sale,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,3773,2023-12-05,Market Sale,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,3523,2023-12-05,Market Sale,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,4023,2023-12-04,Market Sale,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,3023,2023-12-06,Market Sale,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,2773,2023-12-06,Market Sale,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,2273,2023-12-06,Market Sale,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,1250,2023-12-07,Market Sale,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,750,2023-12-07,Market Sale,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,500,2023-12-08,Market Sale,0,1
+COFORGE,Mukund Garg,Employees/Designated Employees,Equity Shares,0.0,,,Buy,1418,2023-11-29,ESOP,0,1
+COFORGE,Madan Mohan,Employees/Designated Employees,Equity Shares,0.07,,,Buy,55019,2023-11-29,ESOP,0,1
+COFORGE,Siju Thampi,Employees/Designated Employees,Equity Shares,0.0,,,Buy,350,2023-11-29,ESOP,0,1
+COFORGE,Madhusudan Hegde,Employees/Designated Employees,Equity Shares,0.0,,,Buy,2858,2023-11-29,ESOP,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Sell,5523,2023-11-28,Market Sale,0,1
+COFORGE,Gautam Samanta,Employees/Designated Employees,Equity Shares,0.0,,,Sell,Nil,2023-11-03,Market Sale,0,1
+COFORGE,Sudhir Singh,Key Managerial Personnel,Equity Shares,0.71,,,Buy,468200,2023-10-26,ESOP,0,1
+COFORGE,Sudhir Singh,Key Managerial Personnel,Equity Shares,0.71,,,Buy,468000,2023-10-26,ESOP,0,1
+COFORGE,Sanjay Dalwani,Employees/Designated Employees,Equity Shares,0.0,,,Buy,808,2023-09-27,ESOP,0,1
+COFORGE,Sandeepan Mukherjee,Employees/Designated Employees,Equity Shares,0.0,,,Buy,2217,2023-10-26,ESOP,0,1
+COFORGE,Shailendra Agarwal,Employees/Designated Employees,Equity Shares,0.0,,,Buy,6000,2023-10-26,ESOP,0,1
+COFORGE,Mark Richard Holden,Employees/Designated Employees,Equity Shares,0.0,,,Buy,3071,2023-10-18,ESOP,0,1
+COFORGE,Sandeepan Mukherjee,Employees/Designated Employees,Equity Shares,0.0,,,Buy,1480,2023-10-18,ESOP,0,1
+COFORGE,Mukund Garg,Employees/Designated Employees,Equity Shares,0.0,,,Buy,719,2023-10-18,ESOP,0,1
+COFORGE,Sanjeev Prasad,Employees/Designated Employees,Equity Shares,0.0,,,Buy,10405,2023-10-18,ESOP,0,1
+COFORGE,Navneet Prasad,Employees/Designated Employees,Equity Shares,0.0,,,Buy,456,2023-10-18,ESOP,0,1
+JAYNECOIND,JAYASWAL NECO STEEL AND MINING LIMITED,Promoter Group,Equity Shares,1.99,,,Buy,22018209,2023-12-26,Off Market,0,0
+JAYNECOIND,ANURAG SALES AND SERVICES PRIVATE LIMITED,Promoter Group,Equity Shares,4.01,,,Buy,41622820,2023-12-26,Off Market,0,0
+JAYNECOIND,NECO LEASING AND FINANCE PRIVATE LIMITED,Promoter Group,Equity Shares,0.09,,,Buy,3591320,2023-12-26,Off Market,0,0
+JAYNECOIND,KARAMVEER IMPEX PRIVATE LIMITED,Promoter Group,Equity Shares,4.86,,,Buy,49920820,2023-12-26,Off Market,0,0
+JAYNECOIND,BASANT LALL SHAW,Promoters,Equity Shares,1.06,,,Buy,13004670,2023-12-26,Off Market,0,0
+JAYNECOIND,ARVIND JAYASWAL,Promoters,Equity Shares,0.25,,,Buy,5089740,2023-12-26,Off Market,0,0
+JAYNECOIND,RAMESH JAYASWAL,Promoters,Equity Shares,0.25,,,Buy,5089740,2023-12-26,Off Market,0,0
+JAYNECOIND,NISHA JAYASWAL,Promoters,Equity Shares,0.0,,,Buy,2716820,2023-12-26,Off Market,0,0
+JAYNECOIND,NINE STAR PLASTIC PACKAGING SERVICES PRIVATE LIMITED,Promoter Group,Equity Shares,4.94,,,Buy,50632253,2023-12-26,Off Market,0,0
+JAYNECOIND,APEX SPINNING MILLS PRIVATE LIMITED,Promoter Group,Equity Shares,3.92,,,Buy,40769198,2023-12-26,Off Market,0,0
+JAYNECOIND,NECO VALVES AND PUMPS PRIVATE LIMITED,Promoter Group,Equity Shares,0.09,,,Buy,3555820,2023-12-26,Off Market,0,0
+JAYNECOIND,AVON SALES AND SERVICES PRIVATE LIMITED,Promoter Group,Equity Shares,4.03,1000.0,1715652.0,Buy,41786820,2023-12-26,Off Market,0,0
+JAYNECOIND,JAYASWAL NECO METALLICS PRIVATE LIMITED,Promoter Group,Equity Shares,4.6,2000.0,3464700.0,Buy,47395375,2023-12-26,Off Market,0,0
+JAYNECOIND,JAYASWAL NECO ENERGY PRIVATE LIMITED,Promoter Group,Equity Shares,4.57,3899.0,6735147.0,Buy,47111320,2023-12-26,Off Market,0,0
+JAYNECOIND,JAYASWAL NECO INFRASTRUCTURES PRIVATE LIMITED,Promoter Group,Equity Shares,4.04,,,Buy,41938431,2023-12-26,Off Market,0,0
+JAYNECOIND,JAYASWAL NECO POWER PRIVATE LIMITED,Promoter Group,Equity Shares,3.85,,,Buy,40087987,2023-12-26,Off Market,0,0
+JAYNECOIND,RITA JAYASWAL,Promoters,Equity Shares,0.0,,,Buy,2716820,2023-12-26,Off Market,0,0
+JAYNECOIND,JAYASWAL HOLDINGS PRIVATE LIMITED,Promoter Group,Equity Shares,5.47,,,Buy,55790771,2023-12-26,Off Market,0,0
