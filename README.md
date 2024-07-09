@@ -1,0 +1,6 @@
+![(15) Feed _ LinkedIn - Google Chrome 09-07-2024 12_39_19](https://github.com/CodeSculptorML/INSIDER_TRADING_DETECTION/assets/155888697/462a121d-d03c-403c-8ac3-d5bfb6e20dce)
+![Insider Trading Detection and 2 more pages - Work - Microsoft​ Edge 09-07-2024 12_39_29](https://github.com/CodeSculptorML/INSIDER_TRADING_DETECTION/assets/155888697/81128a27-de0a-4ae2-bff3-b9817150c63b)
+![Insider Trading Detection and 2 more pages - Work - Microsoft​ Edge 09-07-2024 12_39_43](https://github.com/CodeSculptorML/INSIDER_TRADING_DETECTION/assets/155888697/cc7336da-36be-412e-9211-aa4c7d36e808)
+![Insider Trading Detection and 2 more pages - Work - Microsoft​ Edge 09-07-2024 12_39_59](https://github.com/CodeSculptorML/INSIDER_TRADING_DETECTION/assets/155888697/4260c7a3-fff5-48d3-8257-fafc55a1c24f)
+![Insider Trading Detection and 2 more pages - Work - Microsoft​ Edge 09-07-2024 12_40_15](https://github.com/CodeSculptorML/INSIDER_TRADING_DETECTION/assets/155888697/f81e7330-44c7-40ba-8775-66b76965f906)
+![Insider Trading Detection and 2 more pages - Work - Microsoft​ Edge 09-07-2024 12_40_21](https://github.com/CodeSculptorML/INSIDER_TRADING_DETECTION/assets/155888697/72f2623c-0f46-42dc-a443-167d126e5818)
